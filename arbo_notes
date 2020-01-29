@@ -1,0 +1,10 @@
+mon projet
+|--lib
+|  |--app
+|      |--scrapper.rb (<=> mairie_christmas.rb, a refaire en class)  
+|--db
+|  |--email.csv
+|  |--emails.json
+|--spec
+|--app.rb
+|--Gemfile etc
